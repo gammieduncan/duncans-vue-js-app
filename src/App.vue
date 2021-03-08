@@ -20,8 +20,8 @@
                 // this is only for testing purposes no actual app will have this
                 // an api call will validate user credentials
                 mockAccount: {
-                    username: "ameyrupji",
-                    password: "P@ssword!"
+                    username: "dg",
+                    password: "123"
                 }
             }
         },
